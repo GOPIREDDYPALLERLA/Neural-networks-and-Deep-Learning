@@ -15,8 +15,8 @@ ICP_3 Assingment colab link and vedio link
 
 Colab Link: https://colab.research.google.com/drive/1ozCVoezHexlLroMULDxHxHYoX3JLq-M0#scrollTo=PJVy9YHBM2sA
 
-Vedio Link:
-
+Vedio Link: 
+https://drive.google.com/file/d/19b2NNZk5UQC3bC2SefGs549XRmjsteUm/view?usp=sharing
 
 
 
