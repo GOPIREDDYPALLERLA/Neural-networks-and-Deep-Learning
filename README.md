@@ -7,7 +7,6 @@ This Repository contains ICP-2 and code video Assignment
 colab code link
 
 https://colab.research.google.com/drive/1SKfxHDmDvmF6ncjZlC2BWqPPjUV6f9OP#scrollTo=LYAu8O8CRx2c
-
 vedio link
 
 
