@@ -21,6 +21,10 @@ https://drive.google.com/file/d/19b2NNZk5UQC3bC2SefGs549XRmjsteUm/view?usp=shari
 
 ICP-4 Assingment colab link and vedio link
 
+colab link:
+
+
+vedio link:
 
 
 
