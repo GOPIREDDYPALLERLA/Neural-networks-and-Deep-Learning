@@ -26,6 +26,8 @@ https://colab.research.google.com/drive/1JlPiSBz9hvi6BD09mVMFvWH19jruATxh?usp=sh
 
 
 vedio link:
+https://drive.google.com/file/d/1uaUcQX4RZOPThNXaFMTOE46jaSmYIE7_/view?usp=sharing
+
 
 
 
