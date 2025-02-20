@@ -29,5 +29,11 @@ vedio link:
 https://drive.google.com/file/d/1uaUcQX4RZOPThNXaFMTOE46jaSmYIE7_/view?usp=sharing
 
 
+ICP-5 Assingment Colab link and vedio link
+
+colab link
+
+vedio link
+
 
 
