@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1uaUcQX4RZOPThNXaFMTOE46jaSmYIE7_/view?usp=shari
 
 ICP-5 Assingment Colab link and vedio link
 
-colab link
+colab link:https://colab.research.google.com/drive/1QTcdRBkp6xvGM5TViw-odP5drdPgO1RF?usp=sharing
 
 vedio link
 
