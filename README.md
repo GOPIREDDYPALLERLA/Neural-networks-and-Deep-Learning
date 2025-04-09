@@ -39,5 +39,5 @@ ICP-6 Assingment Colab link and vedio link
 
 Colab link: https://colab.research.google.com/drive/1SE2NKiIGOh3zl8GSDZNFO3plFuRx27zc#scrollTo=l7x1nTH-eGXE
 
-Vedio link: 
+Vedio link: https://drive.google.com/file/d/1IgW7aP21gGFXu2h57RgLupeR_g45Ynww/view?usp=sharing
 
