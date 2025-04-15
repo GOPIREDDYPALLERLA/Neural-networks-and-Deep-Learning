@@ -1,7 +1,9 @@
 # MINI PROJECT
 Title 
 Item demand prediction in store using Deep learning
-Colab Link:
+
+Colab Link: https://colab.research.google.com/drive/1ES3qbkW8_-6yGjvzsmuzxg3AOLLjO2Ox?usp=sharing
+
 
 # Neural Network and Deep learning Assingments
 
