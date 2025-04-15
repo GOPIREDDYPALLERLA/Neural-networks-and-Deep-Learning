@@ -1,14 +1,14 @@
-# Neural-networks-and-Deep-Learning Assingments
-
 # MINI PROJECT
 Title 
 Item demand prediction in store using Deep learning
 Colab Link:
 
+# Neural Network and Deep learning Assingments
+
 This repository contains the icp-1 and code videos for neural networks subject.
 https://drive.google.com/file/d/1wuJjrxmkGmNMc_mTjnu_oE9xhIKE_FcD/view?usp=drive_link
 
-This Repository contains ICP-2 and code video Assignment
+ICP-2 Assignment colab link and vedio link
 
 colab code link
 
