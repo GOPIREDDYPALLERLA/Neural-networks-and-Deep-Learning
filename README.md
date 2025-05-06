@@ -4,7 +4,7 @@
 # SID :700766570
 
 
-Vedio link:
+Vedio link: https://drive.google.com/file/d/1mMS5cqt4s0XadoXqJZGEl5bQ-5PLx1rC/view?usp=sharing
 
 Code link: https://colab.research.google.com/drive/1s86CvryyDi7nMEblTgrOJddC1DnLNDFl?usp=sharing
 
