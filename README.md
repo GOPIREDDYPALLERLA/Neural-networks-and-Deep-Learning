@@ -1,3 +1,11 @@
+# Final Exam 
+
+Vedio link:
+
+Code link:
+
+
+
 # MINI PROJECT
 Title 
 Item demand prediction in store using Deep learning
