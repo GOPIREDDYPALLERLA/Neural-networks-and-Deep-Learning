@@ -6,7 +6,8 @@
 
 Vedio link:
 
-Code link: https://colab.research.google.com/drive/1s86CvryyDi7nMEblTgrOJddC1DnLNDFl
+Code link: https://colab.research.google.com/drive/1s86CvryyDi7nMEblTgrOJddC1DnLNDFl?usp=sharing
+
 
 
 
